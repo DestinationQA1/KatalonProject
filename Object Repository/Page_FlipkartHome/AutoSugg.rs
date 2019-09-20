@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>AutoSugg</name>
+   <tag></tag>
+   <elementGuidId>bf007e69-69d1-4603-8ee5-594a2163426a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_2ja22P _2Yi_mU</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/search?q=iphone&amp;as=on&amp;as-show=on&amp;otracker=AS_Query_HistoryAutoSuggest_0_4_na_na_na&amp;otracker1=AS_Query_HistoryAutoSuggest_0_4_na_na_na&amp;as-pos=0&amp;as-type=HISTORY&amp;suggestionId=iphone&amp;requestId=8118bc46-6703-4c34-b273-c15006233626&amp;as-searchtext=ipho</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>iphone</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;container&quot;)/div[1]/div[@class=&quot;_3ybBIU&quot;]/div[@class=&quot;_1tz-RS&quot;]/div[@class=&quot;_3pNZKl&quot;]/div[@class=&quot;Y5-ZPI&quot;]/form[@class=&quot;_1WMLwI header-form-search&quot;]/ul[@class=&quot;col-12-12 _1PBbw8 _26x3Jb&quot;]/li[@class=&quot;_1va75j&quot;]/div[1]/a[@class=&quot;_2ja22P _2Yi_mU&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='container']/div/div/div/div[2]/div[2]/form/ul/li/div/a</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Plus'])[1]/following::a[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/search?q=iphone&amp;as=on&amp;as-show=on&amp;otracker=AS_Query_HistoryAutoSuggest_0_4_na_na_na&amp;otracker1=AS_Query_HistoryAutoSuggest_0_4_na_na_na&amp;as-pos=0&amp;as-type=HISTORY&amp;suggestionId=iphone&amp;requestId=8118bc46-6703-4c34-b273-c15006233626&amp;as-searchtext=ipho')]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/a</value>
+   </webElementXpaths>
+</WebElementEntity>

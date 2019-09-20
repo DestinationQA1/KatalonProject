@@ -1,0 +1,12 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+GoogleTest,Firefox 69.0,,,2019-09-09 13:20:54,2019-09-09 13:21:34,39.401s,INCOMPLETE
+,,,,,,,
+Test Cases/GoogleSearch,Firefox 69.0,,,2019-09-09 13:20:55,2019-09-09 13:21:34,38.485s,PASSED
+"openBrowser("""")",Firefox 69.0,,,2019-09-09 13:20:56,2019-09-09 13:21:15,18.741s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Firefox 69.0,,,2019-09-09 13:21:15,2019-09-09 13:21:18,2.550s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/input_Show me_q""), ""selenium"")",Firefox 69.0,,,2019-09-09 13:21:18,2019-09-09 13:21:18,0.586s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Google/input_Show me_q""), Keys.chord(ENTER))",Firefox 69.0,,,2019-09-09 13:21:18,2019-09-09 13:21:18,0.224s,PASSED
+delay(2),Firefox 69.0,,,2019-09-09 13:21:18,2019-09-09 13:21:21,2.029s,PASSED
+pageTitle = getWindowTitle(),Firefox 69.0,,,2019-09-09 13:21:21,2019-09-09 13:21:21,0.019s,PASSED
+"verifyMatch(pageTitle, ""selenium - Google Search"", false)",Firefox 69.0,,,2019-09-09 13:21:21,2019-09-09 13:21:21,0.012s,PASSED
+closeBrowser(),Firefox 69.0,,,2019-09-09 13:21:21,2019-09-09 13:21:34,13.064s,PASSED

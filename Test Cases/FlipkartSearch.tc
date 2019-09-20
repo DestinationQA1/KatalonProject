@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FlipkartSearch</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d0c4df43-4740-4c0c-8127-f870647d3a3c</testCaseGuid>
+   <variable>
+      <defaultValue>'175'</defaultValue>
+      <description></description>
+      <id>4b889e2a-2e1c-4c31-9820-bb4d9e45b99d</id>
+      <masked>false</masked>
+      <name>Results</name>
+   </variable>
+</TestCaseEntity>

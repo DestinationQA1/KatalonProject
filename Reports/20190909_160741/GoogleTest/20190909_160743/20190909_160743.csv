@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+GoogleTest,,,,2019-09-09 16:08:06,2019-09-09 16:08:28,21.797s,INCOMPLETE
+,,,,,,,
+Test Cases/GoogleSearch,,,,2019-09-09 16:08:06,2019-09-09 16:08:28,21.212s,FAILED
+"openBrowser("""")",,,,2019-09-09 16:08:07,2019-09-09 16:08:28,20.595s,FAILED

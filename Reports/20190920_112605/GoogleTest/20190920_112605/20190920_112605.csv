@@ -1,0 +1,6 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+GoogleTest,,,,2019-09-20 11:26:15,2019-09-20 11:26:16,0.530s,INCOMPLETE
+,,,,,,,
+Test Cases/GoogleSearch,,,,2019-09-20 11:26:16,2019-09-20 11:26:16,0.210s,PASSED
+Start listener action : sampleBeforeTestCase,,,,2019-09-20 11:26:16,2019-09-20 11:26:16,0.087s,PASSED
+Start listener action : sampleAfterTestCase,,,,2019-09-20 11:26:16,2019-09-20 11:26:16,0.000s,PASSED

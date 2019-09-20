@@ -1,0 +1,6 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+GoogleTest,Edge 17,,,2019-09-14 10:27:49,2019-09-14 10:28:03,13.967s,INCOMPLETE
+,,,,,,,
+Test Cases/GoogleSearch,Edge 17,,,2019-09-14 10:27:50,2019-09-14 10:28:03,13.618s,FAILED
+"openBrowser("""")",Edge 17,,,2019-09-14 10:27:50,2019-09-14 10:28:00,9.514s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Edge 17,,,2019-09-14 10:28:00,2019-09-14 10:28:03,3.635s,FAILED

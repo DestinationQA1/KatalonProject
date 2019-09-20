@@ -1,0 +1,12 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+GoogleTest,Edge 17,,,2019-09-09 18:34:19,2019-09-09 18:34:29,9.858s,INCOMPLETE
+,,,,,,,
+Test Cases/GoogleSearch,Edge 17,,,2019-09-09 18:34:19,2019-09-09 18:34:29,9.371s,PASSED
+"openBrowser("""")",Edge 17,,,2019-09-09 18:34:20,2019-09-09 18:34:24,3.839s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Edge 17,,,2019-09-09 18:34:24,2019-09-09 18:34:25,1.369s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/input_Show me_q""), ""selenium"")",Edge 17,,,2019-09-09 18:34:25,2019-09-09 18:34:26,0.309s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Google/input_Show me_q""), Keys.chord(ENTER))",Edge 17,,,2019-09-09 18:34:26,2019-09-09 18:34:26,0.196s,PASSED
+delay(2),Edge 17,,,2019-09-09 18:34:26,2019-09-09 18:34:28,2.062s,PASSED
+pageTitle = getWindowTitle(),Edge 17,,,2019-09-09 18:34:28,2019-09-09 18:34:28,0.025s,PASSED
+"verifyMatch(pageTitle, ""selenium - Google Search"", false)",Edge 17,,,2019-09-09 18:34:28,2019-09-09 18:34:28,0.009s,PASSED
+closeBrowser(),Edge 17,,,2019-09-09 18:34:28,2019-09-09 18:34:29,1.026s,PASSED

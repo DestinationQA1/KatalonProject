@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DragSlider</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f2df0bc0-9eb3-48d5-b732-7d231f23fcd0</testCaseGuid>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>c155071e-983c-41be-90a9-210dd6ceb6a9</id>
+      <masked>false</masked>
+      <name>maxWidth</name>
+   </variable>
+</TestCaseEntity>

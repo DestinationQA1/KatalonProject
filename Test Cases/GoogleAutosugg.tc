@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GoogleAutosugg</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>05834eab-514c-4a9c-a04f-651d7520906b</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>914b98a2-ecb7-477a-b864-5a87d5f6042b</id>
+      <masked>false</masked>
+      <name>pageTitle</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>234fef78-2ec7-407f-90fa-c0aeea8e383d</id>
+      <masked>false</masked>
+      <name>SuggestionValue</name>
+   </variable>
+</TestCaseEntity>

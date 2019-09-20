@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+GoogleTest,Chrome 76.0.3809.132,,,2019-09-14 10:27:40,2019-09-14 10:27:59,18.628s,INCOMPLETE
+,,,,,,,
+Test Cases/GoogleSearch,Chrome 76.0.3809.132,,,2019-09-14 10:27:40,2019-09-14 10:27:59,18.221s,FAILED
+"openBrowser("""")",Chrome 76.0.3809.132,,,2019-09-14 10:27:41,2019-09-14 10:27:45,3.913s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 76.0.3809.132,,,2019-09-14 10:27:45,2019-09-14 10:27:46,1.455s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/input_Show me_q""), ""selenium"")",Chrome 76.0.3809.132,,,2019-09-14 10:27:46,2019-09-14 10:27:59,12.393s,FAILED

@@ -1,0 +1,14 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+GoogleTest,Chrome 77.0.3865.90,,,2019-09-20 11:08:13,2019-09-20 11:08:57,44.302s,INCOMPLETE
+,,,,,,,
+Test Cases/GoogleSearch,Chrome 77.0.3865.90,,,2019-09-20 11:08:13,2019-09-20 11:08:57,44.031s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 77.0.3865.90,,,2019-09-20 11:08:13,2019-09-20 11:08:13,0.013s,PASSED
+"openBrowser("""")",Chrome 77.0.3865.90,,,2019-09-20 11:08:13,2019-09-20 11:08:20,6.339s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 77.0.3865.90,,,2019-09-20 11:08:20,2019-09-20 11:08:33,13.030s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/input_Show me_q""), ""selenium"")",Chrome 77.0.3865.90,,,2019-09-20 11:08:33,2019-09-20 11:08:33,0.404s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Google/input_Show me_q""), Keys.chord(ENTER))",Chrome 77.0.3865.90,,,2019-09-20 11:08:33,2019-09-20 11:08:54,21.152s,PASSED
+delay(2),Chrome 77.0.3865.90,,,2019-09-20 11:08:54,2019-09-20 11:08:56,2.023s,PASSED
+pageTitle = getWindowTitle(),Chrome 77.0.3865.90,,,2019-09-20 11:08:56,2019-09-20 11:08:56,0.022s,PASSED
+"verifyMatch(pageTitle, ""selenium - Google Search"", false)",Chrome 77.0.3865.90,,,2019-09-20 11:08:56,2019-09-20 11:08:56,0.009s,PASSED
+closeBrowser(),Chrome 77.0.3865.90,,,2019-09-20 11:08:56,2019-09-20 11:08:57,0.660s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 77.0.3865.90,,,2019-09-20 11:08:57,2019-09-20 11:08:57,0.001s,PASSED
