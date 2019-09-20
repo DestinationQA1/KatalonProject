@@ -7,7 +7,7 @@
    <testCaseGuid>34ada782-1993-4497-9ef7-98eb0ef0c447</testCaseGuid>
    <variable>
       <defaultValue>''</defaultValue>
-      <description></description>
+      <description>Adding from github</description>
       <id>d5f1f0d8-ebb2-45f2-9984-0b6bcacce8e2</id>
       <masked>false</masked>
       <name>pageTitle</name>
